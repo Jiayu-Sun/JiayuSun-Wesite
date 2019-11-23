@@ -1,6 +1,6 @@
+# Welcome to my resume!
 
-# Welcome to LearnCS8 Resume Website
+Hope you enjoy reading my page.
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+Thank you!
+![overview](https://lh3.googleusercontent.com/XqFBMHpV-TSVUhfP0H_kUql7vFljayFsxLTukd2keyYa1oIdHLr8KHv60T1H7WU8qI3ObDTXILA "photo")
